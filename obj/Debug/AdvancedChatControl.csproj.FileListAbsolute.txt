@@ -1,0 +1,44 @@
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\bin\Debug\AdvancedChatControl.dll
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\bin\Debug\AdvancedChatControl.pdb
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\bin\Debug\Assembly-CSharp.dll
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.API.dll
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.Core.dll
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.Unturned.dll
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\bin\Debug\UnityEngine.dll
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.dll
+C:\Users\Test\Desktop\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.pdb
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\bin\Debug\AdvancedChatControl.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\bin\Debug\AdvancedChatControl.pdb
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Assembly-CSharp.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.API.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.Core.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.Unturned.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\bin\Debug\UnityEngine.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.csprojResolveAssemblyReference.cache
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (beta1)\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.pdb
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\AdvancedChatControl.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\AdvancedChatControl.pdb
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Assembly-CSharp.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.API.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.Core.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.Unturned.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\UnityEngine.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.pdb
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\AdvancedChatControl.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\AdvancedChatControl.pdb
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Assembly-CSharp.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.API.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.Core.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\Rocket.Unturned.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\bin\Debug\UnityEngine.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.csprojResolveAssemblyReference.cache
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.dll
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0.1 (final)\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.pdb
+D:\MY_PLUGINS\FINISHED\AdvancedChatControl\1.0 (final)\AdvancedChatControl\AdvancedChatControl\obj\Debug\AdvancedChatControl.csprojResolveAssemblyReference.cache
